@@ -8,6 +8,7 @@ public class suma {
 		int suma=0;
 		for (int i = 0; i < 2; i++) {
 			System.out.println("Introduce numero: ");
+			System.out.println("Nueva línea.");
 			suma+= sc.nextInt();
 			
 		}
